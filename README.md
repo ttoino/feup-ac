@@ -11,15 +11,15 @@
 This project was developed by:
 
 - [Joāo Pereira](https://github.com/ttoino)
-- [Nuno ](https://github.com/)
+- [Nuno Pereira](https://github.com/)
 - [Sofia Merino Costa](https://github.com/sophie-mc-dev)
 
 ### Folder Structure
 
 - data
-- src
 - docs
 - img
+- src
 
 ### Case description
 
@@ -31,7 +31,7 @@ Basketball tournaments are usually split in two parts. First, all teams play eac
 
 For the 10 years, data from players, teams, coaches, games and several other metrics were gathered and arranged on this dataset. The goal is to use this data to predict which teams will qualify for the playoffs in the next season.
 
-### Data desciption
+### Domain desciption
 
 ![img](./img/data-description.png)
 
