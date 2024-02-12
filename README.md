@@ -3,7 +3,7 @@
 ### Project
 
 - **Course**: Master's Degree in Informatics and Computing Engineering
-- **Class**: AC...
+- **Class**: Computational Learning 
 - **Date**: 1st Year, 1st Semester 2023/2024,
 
 ### Group
